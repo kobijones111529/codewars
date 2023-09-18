@@ -1,4 +1,4 @@
-import Control.Monad (join, void)
+import Control.Monad (join)
 import Data.Bifunctor (Bifunctor (bimap))
 import Data.Foldable (Foldable (foldl'))
 
