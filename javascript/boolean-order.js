@@ -1,4 +1,9 @@
 /**
+ * https://www.codewars.com/kata/59eb1e4a0863c7ff7e000008/javascript
+ * WIP
+ */
+
+/**
  * @param {string} valuesStr
  * @param {string} opsStr
  * @returns {number}
